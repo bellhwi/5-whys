@@ -1,2 +1,2 @@
-# 5-WHYS
+Simple deep think tool
  
